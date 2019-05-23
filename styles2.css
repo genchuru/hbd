@@ -6,3 +6,7 @@
 body {
   margin: auto 0 auto;
 }
+
+p {
+  font-size: 10px;
+}
