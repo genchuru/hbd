@@ -1,0 +1,8 @@
+.image {
+  margin: 250px auto 0;
+  text-align: center;
+}
+
+body {
+  margin: auto 0 auto;
+}
